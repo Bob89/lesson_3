@@ -1,0 +1,135 @@
+.body{
+    font-size: 14px;
+    font-family: 'Open Sans',"Times New Roman", sans-serif;
+
+}
+
+.main_wrapper{
+    background: #f9f9f9;
+}
+.wrapper{
+    overflow: hidden;
+    width: 1060px;
+    margin: 0 auto;
+    background: white;
+    border: 1px solid #dbdbdb;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+
+
+}
+.title{
+    font-size: 50px;
+    font-family: 'Open Sans', "Times New Roman", sans-serif;
+    padding-top: 50px;
+    padding-left: 45px;
+    margin-bottom: 40px;
+}
+
+.header{
+    width: 965px;
+    background: #535252;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+
+.header_lists li{
+    padding: 15px 60px 15px 25px;
+    display: inline-block;
+    font-family: 'Open Sans', "Times New Roman", sans-serif;
+    text-decoration: none;
+    color: white;
+    font-size: 11px;
+}
+.header_lists a:hover{
+    background: #464646;
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+    padding: 10px;
+}
+.aside_wrapper {
+    float: left;
+    margin-right: 50px;
+    width: 240px;
+    border: 1px solid #dbdbdb;
+    margin-left: 45px;
+
+
+}
+.aside-lists a  {
+    border-bottom:1px solid #dbdbdb; ;
+    display: block;
+    padding: 15px;
+    font-family: 'Open Sans', "Times New Roman", sans-serif;
+    font-size: 14px;
+    color: #7a7878;
+    text-decoration: none;
+
+}
+.aside-lists a:hover{
+    background: #f9f9f9;
+    padding-left: 10px;
+
+}
+.content{
+    border: 1px solid #dbdbdb;
+    display: inline-block;
+    overflow: hidden;
+    width: 675px;
+    margin-right: 45px;
+
+}
+.velik_img{
+    float: right;
+    padding: 50px 95px 55px 50px;
+
+}
+.lorem{
+    display: inline-block;
+    float: right;
+    overflow: hidden;
+    width: 675px;
+    margin-right: 45px;
+    margin-bottom: 60px;
+}
+.text_lorem{
+    font-family: 'Open Sans', "Times New Roman", sans-serif;
+    margin-top: 40px;
+    font-size: 13px;
+    line-height: 16px;
+}
+
+
+.footer{
+
+    display: inline-block;
+    width: 965px;
+    background: #e1e1e1;
+    margin: 0 47px 40px 47px;
+
+}
+.footer_lists li{
+    float: left;
+    padding: 15px 60px 15px 25px;
+    display: inline-block;
+    font-family: 'Open Sans', "Times New Roman", sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 11px;
+}
+.footer_lists li:hover{
+   text-decoration: underline;
+
+}
+.reserved{
+    font-size: 12px;
+    font-family: 'Open Sans', "Times New Roman", sans-serif;
+    float: right;
+    margin-right: 15px;
+    margin-top: 15px;
+
+
+
+
+
+}
